@@ -12,3 +12,6 @@
 .country p {
   color: green; /* p এর রঙ */
 }
+.country-visited{
+    background-color: aqua;
+}
