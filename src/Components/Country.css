@@ -1,0 +1,14 @@
+.country{
+    border: 2px solid purple;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: white;
+}
+.country h3 {
+  color: blue; /* h3 এর রঙ */
+}
+
+.country p {
+  color: green; /* p এর রঙ */
+}
